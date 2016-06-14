@@ -1,0 +1,14 @@
+yellow = (0xf5, 0xea, 0xcd)
+green = (0x1f, 0xda, 0x9a)
+raceColour = yellow
+background_c = yellow
+
+c_green = (0x1f, 0xda, 0x9a)
+c_yellow = (0xe9,0xbc,0x1b)
+c_white = (0xff, 0xff, 0xff)
+c_list_back = c_white
+c_users = c_white
+
+users_list_c = yellow
+user_info_c = yellow
+semaphore_c = yellow
